@@ -19,7 +19,6 @@ Menu driven script- takes either the path of the image from the user or captures
 ## Images
 - Hulk sketch
 ![](https://i.postimg.cc/XqN6sGZb/Hulk-Final-Sketch.jpg)
-- Hulk folder
-![](https://i.postimg.cc/Wz9LCNrJ/Hulk-Folder.jpg)
+
 
  
